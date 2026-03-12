@@ -1,6 +1,6 @@
 \# Exercises-1
 
-This repository contains a simple java starter project.
+This repository contains a java project for conflict.
 
 
 
